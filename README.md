@@ -13,22 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## README
+# I'm Template
 
 I just like *building* things. Whatever happens to interest me at the moment.
 
-This quote below definitely describes me:
+This feels pretty relevant:
 > "Most good programmers do programming not because they expect to get paid
 > or get adulation by the public, but because it is fun to program."
 >
 > — Linus Torvalds
 
 ## 🕑 Currently
-- Just reviewing and modifying my GitHub profile
+- Reviewing and modifying my GitHub profile
 - Learning how to use Rust & C#
 - Exploring neural networks / machine learning
 - Building interactive things
-- Just experimenting with game development
+- Experimenting with game development
 
 ## 🔨 Projects
 
