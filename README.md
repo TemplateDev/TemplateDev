@@ -23,13 +23,6 @@ This feels pretty relevant:
 >
 > — Linus Torvalds
 
-## 🕑 Currently
-- Reviewing and modifying my GitHub profile
-- Learning how to use Rust & C#
-- Exploring neural networks / machine learning
-- Building interactive things
-- Experimenting with game development
-
 ## 🔨 Projects
 
 Coming soon...
