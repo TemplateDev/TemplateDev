@@ -25,7 +25,13 @@ This feels pretty relevant:
 
 ## 🔨 Projects
 
-Coming soon...
+### [Burning Wallet TUI Game](https://github.com/TemplateDev/burning-wallet-tui-game)
+![Screenshot showing a title 'Burning Wallet' with game information 'Round: 12 / 20', 'Actions left: 1', 'Money: $280', 'Heat: 26'. Below game information are three text options '+ SKIP', '+ EARN', '+ BURN'. Below options is a grayed out text 'Ending turn...'.](https://github.com/TemplateDev/burning-wallet-tui-game/blob/main/docs/images/thumbnail-1.png)
+Terminal-based React and Ink game Burning Wallet challenges players to budget wisely. The game simulates the battle to balance income and expenses while slowing your wallet's "burning" rate.
+
+### [Ollama Chatbot](https://github.com/TemplateDev/ollama-chatbot)
+![Screenshot displaying a sleek dark UI with title 'Ollama Chatbot' and four starter prompts and chatbox at bottom](https://github.com/TemplateDev/ollama-chatbot/blob/main/docs/images/thumbnail-1.png)
+Modern AI chatbot using Next.js, TypeScript, and Ollama. It has markdown rendering, discussion persistence, and message editing.
 
 > [!NOTE]
 > I've written a lot of code as drafts. I'm professionally discarding **100+** drafts.
@@ -35,26 +41,25 @@ Coming soon...
 ```js
 function README() {
   console.log(`
-    ## README
-    
+    # I'm Template
+
     I just like *building* things. Whatever happens to interest me at the moment.
     
-    This quote below definitely describes me:
+    This feels pretty relevant:
     > "Most good programmers do programming not because they expect to get paid
     > or get adulation by the public, but because it is fun to program."
     >
     > — Linus Torvalds
     
-    ## 🕑 Currently
-    - Just reviewing and modifying my GitHub profile
-    - Learning how to use Rust & C#
-    - Exploring neural networks / machine learning
-    - Building interactive things
-    - Just experimenting with game development
-    
     ## 🔨 Projects
     
-    Coming soon...
+    ### [Burning Wallet TUI Game](https://github.com/TemplateDev/burning-wallet-tui-game)
+    ![Screenshot showing a title 'Burning Wallet' with game information 'Round: 12 / 20', 'Actions left: 1', 'Money: $280', 'Heat: 26'. Below game information are three text options '+ SKIP', '+ EARN', '+ BURN'. Below options is a grayed out text 'Ending turn...'.](https://github.com/TemplateDev/burning-wallet-tui-game/blob/main/docs/images/thumbnail-1.png)
+    Terminal-based React and Ink game Burning Wallet challenges players to budget wisely. The game simulates the battle to balance income and expenses while slowing your wallet's "burning" rate.
+    
+    ### [Ollama Chatbot](https://github.com/TemplateDev/ollama-chatbot)
+    ![Screenshot displaying a sleek dark UI with title 'Ollama Chatbot' and four starter prompts and chatbox at bottom](https://github.com/TemplateDev/ollama-chatbot/blob/main/docs/images/thumbnail-1.png)
+    Modern AI chatbot using Next.js, TypeScript, and Ollama. It has markdown rendering, discussion persistence, and message editing.
     
     > [!NOTE]
     > I've written a lot of code as drafts. I'm professionally discarding **100+** drafts.
