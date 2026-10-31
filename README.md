@@ -25,12 +25,38 @@ This feels pretty relevant:
 
 ## 🔨 Projects
 
+### [The Quiet Below](https://github.com/TemplateDev/the-quiet-below)
+
+<img
+  src="https://github.com/TemplateDev/the-quiet-below/blob/main/docs/images/thumbnail-3.png"
+  alt="Screenshot showing a maze grid with a yellow key to the left and a yellow door to the right with a player dot in the center of the screenshot."
+  height="400"
+/>
+
+A browser-based maze puzzle game where you must navigate the dark, gather keys, unlock doors, and escape adversaries.
+
+---
+
 ### [Burning Wallet TUI Game](https://github.com/TemplateDev/burning-wallet-tui-game)
-![Screenshot showing a title 'Burning Wallet' with game information 'Round: 12 / 20', 'Actions left: 1', 'Money: $280', 'Heat: 26'. Below game information are three text options '+ SKIP', '+ EARN', '+ BURN'. Below options is a grayed out text 'Ending turn...'.](https://github.com/TemplateDev/burning-wallet-tui-game/blob/main/docs/images/thumbnail-1.png)
+
+<img
+  src="https://github.com/TemplateDev/burning-wallet-tui-game/blob/main/docs/images/thumbnail-1.png"
+  alt="Screenshot showing a title 'Burning Wallet' with game information 'Round: 12 / 20', 'Actions left: 1', 'Money: $280', 'Heat: 26'. Below game information are three text options '+ SKIP', '+ EARN', '+ BURN'. Below options is a grayed out text 'Ending turn...'."
+  height="400"
+/>
+
 Terminal-based React and Ink game Burning Wallet challenges players to budget wisely. The game simulates the battle to balance income and expenses while slowing your wallet's "burning" rate.
 
+---
+
 ### [Ollama Chatbot](https://github.com/TemplateDev/ollama-chatbot)
-![Screenshot displaying a sleek dark UI with title 'Ollama Chatbot' and four starter prompts and chatbox at bottom](https://github.com/TemplateDev/ollama-chatbot/blob/main/docs/images/thumbnail-1.png)
+
+<img
+  src="https://github.com/TemplateDev/ollama-chatbot/blob/main/docs/images/thumbnail-1.png"
+  alt="Screenshot displaying a sleek dark UI with title 'Ollama Chatbot' and four starter prompts and chatbox at bottom"
+  height="400"
+/>
+
 Modern AI chatbot using Next.js, TypeScript, and Ollama. It has markdown rendering, discussion persistence, and message editing.
 
 > [!NOTE]
@@ -42,7 +68,7 @@ Modern AI chatbot using Next.js, TypeScript, and Ollama. It has markdown renderi
 function README() {
   console.log(`
     # I'm Template
-
+    
     I just like *building* things. Whatever happens to interest me at the moment.
     
     This feels pretty relevant:
@@ -53,12 +79,38 @@ function README() {
     
     ## 🔨 Projects
     
+    ### [The Quiet Below](https://github.com/TemplateDev/the-quiet-below)
+    
+    <img
+      src="https://github.com/TemplateDev/the-quiet-below/blob/main/docs/images/thumbnail-3.png"
+      alt="Screenshot showing a maze grid with a yellow key to the left and a yellow door to the right with a player dot in the center of the screenshot."
+      height="400"
+    />
+    
+    A browser-based maze puzzle game where you must navigate the dark, gather keys, unlock doors, and escape adversaries.
+    
+    ---
+    
     ### [Burning Wallet TUI Game](https://github.com/TemplateDev/burning-wallet-tui-game)
-    ![Screenshot showing a title 'Burning Wallet' with game information 'Round: 12 / 20', 'Actions left: 1', 'Money: $280', 'Heat: 26'. Below game information are three text options '+ SKIP', '+ EARN', '+ BURN'. Below options is a grayed out text 'Ending turn...'.](https://github.com/TemplateDev/burning-wallet-tui-game/blob/main/docs/images/thumbnail-1.png)
+    
+    <img
+      src="https://github.com/TemplateDev/burning-wallet-tui-game/blob/main/docs/images/thumbnail-1.png"
+      alt="Screenshot showing a title 'Burning Wallet' with game information 'Round: 12 / 20', 'Actions left: 1', 'Money: $280', 'Heat: 26'. Below game information are three text options '+ SKIP', '+ EARN', '+ BURN'. Below options is a grayed out text 'Ending turn...'."
+      height="400"
+    />
+    
     Terminal-based React and Ink game Burning Wallet challenges players to budget wisely. The game simulates the battle to balance income and expenses while slowing your wallet's "burning" rate.
     
+    ---
+    
     ### [Ollama Chatbot](https://github.com/TemplateDev/ollama-chatbot)
-    ![Screenshot displaying a sleek dark UI with title 'Ollama Chatbot' and four starter prompts and chatbox at bottom](https://github.com/TemplateDev/ollama-chatbot/blob/main/docs/images/thumbnail-1.png)
+    
+    <img
+      src="https://github.com/TemplateDev/ollama-chatbot/blob/main/docs/images/thumbnail-1.png"
+      alt="Screenshot displaying a sleek dark UI with title 'Ollama Chatbot' and four starter prompts and chatbox at bottom"
+      height="400"
+    />
+    
     Modern AI chatbot using Next.js, TypeScript, and Ollama. It has markdown rendering, discussion persistence, and message editing.
     
     > [!NOTE]
