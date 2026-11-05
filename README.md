@@ -122,7 +122,7 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=00000011&section=footer&text=Thanks+for+taking+a+look+around%21+%F0%9F%91%8B&fontColor=000000&fontSize=36&fontAlign=50&fontAlignY=21&desc=While+you%27re+at+it%2C+check+out+my+projects%21&descSize=24&descAlign=40&descAlignY=55" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff11&section=footer&text=Thanks+for+taking+a+look+around%21+%F0%9F%91%8B&fontColor=FFFFFF&fontSize=36&fontAlign=50&fontAlignY=21&desc=While+you%27re+at+it%2C+check+out+my+projects%21&descSize=24&descAlign=40&descAlignY=55" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00000011&section=footer&text=Thanks+for+taking+a+look+around%21+%F0%9F%91%8B&fontColor=000000&fontSize=36&fontAlign=50&fontAlignY=21" alt="Thanks for taking a look around! While you're at it, check out my projects!" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=00000011&section=footer&text=Thanks+for+taking+a+look+around%21+%F0%9F%91%8B&fontColor=000000&fontSize=36&fontAlign=50&fontAlignY=21&desc=While+you%27re+at+it%2C+check+out+my+stuff%21&descSize=24&descAlign=40&descAlignY=55" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffffff11&section=footer&text=Thanks+for+taking+a+look+around%21+%F0%9F%91%8B&fontColor=FFFFFF&fontSize=36&fontAlign=50&fontAlignY=21&desc=While+you%27re+at+it%2C+check+out+my+stuff%21&descSize=24&descAlign=40&descAlignY=55" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00000011&section=footer&text=Thanks+for+taking+a+look+around%21+%F0%9F%91%8B&fontColor=000000&fontSize=36&fontAlign=50&fontAlignY=21" alt="Thanks for taking a look around! While you're at it, check out my stuff!" />
 </picture>
